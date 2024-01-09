@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f78e9fbf-5249-4d0f-b619-6839935eba8c": {
+      "ProjectGuid": "f78e9fbf-5249-4d0f-b619-6839935eba8c",
+      "DisplayName": "FaceDetectionAndRecognition",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
